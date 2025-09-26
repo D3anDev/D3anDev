@@ -74,9 +74,3 @@
 </a>
 
 ---
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=D3anDev&show_icons=true&count_private=true" alt="Dean's GitHub Stats" />
-
----
