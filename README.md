@@ -5,10 +5,9 @@
 
 ## About Me
 
-- I'm currently building a website for my organization, **SPIDDR**.
-- I'm also studying for the **CompTIA A+ certification.**
-- Beyond coding, I'm also a **video editor.**
-- In my free time, I'm learning to play the **piano.**
+- I am **CompTIA certified** with the **[CompTIA ITF+ cert](https://www.comptia.org/en-us/certifications/itf/#overview)**.
+- Video editing is a hobby of mine, and I use **Vegas Pro** for my projects.
+- Additionally, I compose music in **SONAR Platinum**.
 
 ### Interests
 - Self-hosting
