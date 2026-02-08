@@ -3,16 +3,12 @@
 
 ---
 
-## About Me
-
-- I am **CompTIA certified** with the **[CompTIA ITF+ cert](https://www.comptia.org/en-us/certifications/itf/#overview)**.
-- Video editing is a hobby of mine, and I use **Vegas Pro** for my projects.
-- Additionally, I compose music in **SONAR Platinum**.
-
 ### Interests
 - Self-hosting
 - Pen testing
 - PC building
+- Open Source Software
+- Privacy / Security 
 
 ---
 
