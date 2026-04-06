@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Dean<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">CS Student with a passion for cybersecurity and privacy on the internet.</h3>
+<h3 align="center">Cybersecurity and Privacy enthusiast</h3>
 
 ---
 
 ### Interests
 - Self-hosting
-- Pen testing
 - PC building
-- Open Source Software
-- Privacy / Security 
+- Free and Open Source Software (FOSS)
+- Scripting
+- App Development
 
 ---
 
