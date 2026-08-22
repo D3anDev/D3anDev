@@ -8,7 +8,7 @@
 - PC building
 - Free and Open Source Software (FOSS)
 - Scripting
-- App Development
+- Game Development
 
 ---
 
