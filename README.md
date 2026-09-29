@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dean<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">Cybersecurity and Privacy enthusiast</h3>
+<h3 align="center">Systems & Network Specialist</h3>
 
 ---
 
